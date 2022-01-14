@@ -1,1 +1,1 @@
-Docker using a debian stable-slim and allows you to compile java maven application with jdk11.
+Docker using a debian stable-slim and allows you to compile java maven application with jdk11 and execute UI test using xvfb.
