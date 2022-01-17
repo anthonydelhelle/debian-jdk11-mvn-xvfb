@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM debian:stable
 
 # update package
 RUN apt-get -y update
